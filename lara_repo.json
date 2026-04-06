@@ -14,9 +14,9 @@
       "format": "truetype"
     },
     {
-      "name": "ZPIX",
-      "url": "https://github.com/YUPA-TT/laraRepo/raw/refs/heads/main/Fonts/zpix_patched.ttf",
+      "name": "zpix",
+      "url": "https://github.com/YUPA-TT/laraRepo/raw/refs/heads/main/Fonts/zpix.patched.ttf",
       "format": "truetype"
-    }
+    },
   ]
 }
