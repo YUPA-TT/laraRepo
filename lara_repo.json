@@ -1,0 +1,17 @@
+{
+  "repo_name": "larafonts by tabemaru",
+  "repo_author": "tabemaru",
+  "repo_icon": "https://github.com/YUPA-TT/HTML-JavaScript-CSS/raw/refs/heads/main/3_20240828162441.png",
+  "fonts": [
+    {
+      "name": "LobsterTwo",
+      "url": "https://github.com/YUPA-TT/laraRepo/raw/refs/heads/main/Fonts/LobsterTwo_patched.ttf",
+      "format": "truetype"
+    },
+    {
+      "name": "PuhuHoliday",
+      "url": "https://github.com/YUPA-TT/laraRepo/raw/refs/heads/main/Fonts/PuhuHoliday.ttf",
+      "format": "truetype"
+    }
+  ]
+}
