@@ -12,6 +12,11 @@
       "name": "PuhuHoliday",
       "url": "https://github.com/YUPA-TT/laraRepo/raw/refs/heads/main/Fonts/PuhuHoliday.ttf",
       "format": "truetype"
+    },
+    {
+      "name": "zpix",
+      "url": "https://github.com/YUPA-TT/laraRepo/blob/main/Fonts/zpix_patched.ttf",
+      "format": "truetype"
     }
   ]
 }
